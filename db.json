@@ -1,9 +1,11 @@
 {
-  "posts": [
+  "body": [
     {
       "id": 1,
       "title": "hello",
-      "aalo" : "2kg"
+      "name" : "Henry",
+      "age" : "27",
+      "firstName":"Nicholas"
     }
   ],
   "profile": {
